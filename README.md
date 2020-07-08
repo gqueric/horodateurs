@@ -3,5 +3,6 @@ Projet réalisé en M1 (2ème semestre) dans le cadre du cours Analyse de donné
 Cette base contient deux collections principales: 
 
   _ transactions: ensemble des paiements
+  
   _ mobiliers: liste de tous les horodateurs 
 
